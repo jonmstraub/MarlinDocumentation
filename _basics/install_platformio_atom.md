@@ -20,7 +20,7 @@ There are two ways of using **PlatformIO** with **Atom**.
 
 ### Install Atom and PlatformIO
 
-1. Install **Atom** and **PlatformIO** as described in [PlatformIO for Atom](http://docs.platformio.org/en/latest/ide/atom.html#installation).
+1. Install **Atom** and **PlatformIO** as described in [PlatformIO for Atom](//docs.platformio.org/en/latest/ide/atom.html#installation).
 1. Repeat steps 2 and 3 of the above to install the **process-palette** package in Atom.
 
 ### Build Marlin
@@ -55,7 +55,7 @@ A sample customization process is described below to demonstrate how this method
 
 1. Install Atom
 
-   [Download Atom](https://atom.io/) and run the installer (Windows) or install (macOS and Linux).
+   [Download Atom](//atom.io/) and run the installer (Windows) or install (macOS and Linux).
 
 1. Open Atom Package Manager
    1. Bring up the Core Settings window
@@ -143,7 +143,7 @@ This step is optional, but we recommend doing the minimal build because configur
        The project folder and its contents should appear in the Project Navigator on the left side.
 
        ![Explorer](/assets/images/basics/install_platformio/explorer.png)
-       
+
 #### Prepare **platformio.ini**
 
 The **Auto Build** option and PlatformIO tasks/build menu will allow you to select your build environment, and it will make the selected environment the default for building until the next program restart. But you can set your environment in **platformio.ini** for a faster build or to make command-line pio build easier.
@@ -294,7 +294,7 @@ The pins files only need to be modified if you're addeing hardware that isn't al
 
 **`Use caution! In some cases these modifications can damage your electronics!`**
 
-If you're not comfortable modifying the pins file [Post a New Issue](https://github.com/MarlinFirmware/Marlin/issues/new) and ask for help.
+If you're not comfortable modifying the pins file [Post a New Issue](//github.com/MarlinFirmware/Marlin/issues/new) and ask for help.
 
 ### LPC1768 & LPC1769 based boards
 

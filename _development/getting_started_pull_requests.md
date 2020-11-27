@@ -9,15 +9,15 @@ category: [ development ]
 
 ### Introduction
 
-GitHub is a great tool for collaboration, but it has a bit of a learning curve. The power of GitHub comes from the [Git version control system](https://en.wikipedia.org/wiki/Git). Git will be familiar if you've used other version control systems like [CVS](https://en.wikipedia.org/wiki/Concurrent_Versions_System), [Apache Subversion](https://en.wikipedia.org/wiki/Apache_Subversion), or [Mercurial](https://en.wikipedia.org/wiki/Mercurial). GitHub adds helpful collaboration features that make it an ideal platform for maintaining the Marlin project.
+GitHub is a great tool for collaboration, but it has a bit of a learning curve. The power of GitHub comes from the [Git version control system](//en.wikipedia.org/wiki/Git). Git will be familiar if you've used other version control systems like [CVS](//en.wikipedia.org/wiki/Concurrent_Versions_System), [Apache Subversion](//en.wikipedia.org/wiki/Apache_Subversion), or [Mercurial](//en.wikipedia.org/wiki/Mercurial). GitHub adds helpful collaboration features that make it an ideal platform for maintaining the Marlin project.
 
 Before submitting code and other content, please review [Contributing to Marlin](contributing.html) and [Marlin Coding Standards](coding_standards.html). Following our guidelines ensures that your changes will be accepted more quickly.
 
 ### Set up GitHub, Fork, and Clone
 
-Before you can contribute to Marlin, you need to get a [free GitHub.com account](https://github.com/join). This is a pretty quick process. Please upload a unique icon or image so it will be easier to identify you on the project pages! You'll also need to download and install the [GitHub Desktop](https://desktop.github.com) application.
+Before you can contribute to Marlin, you need to get a [free GitHub.com account](//github.com/join). This is a pretty quick process. Please upload a unique icon or image so it will be easier to identify you on the project pages! You'll also need to download and install the [GitHub Desktop](//desktop.github.com) application.
 
-After signing in to your GitHub account, go to the main Marlin repository at: [https://github.com/MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) and create a fork of Marlin by clicking the `fork` icon in the top right of the page.
+After signing in to your GitHub account, go to the main Marlin repository at: [https://github.com/MarlinFirmware/Marlin](//github.com/MarlinFirmware/Marlin) and create a fork of Marlin by clicking the `fork` icon in the top right of the page.
 
 ![image1]({{ 'pull_1.jpg' | prepend: site.pull_img }})
 
@@ -53,7 +53,7 @@ Type in the new title and click `Save`.
 
 ### Change the Default Branch
 
-At this time we're using the `bugfix-2.0.x` branch to patch bugs for the next minor release, and the `dev-2.1.x` branch for new features for the next point release. We recommend you change the "Default Branch" in your fork to `bugfix-2.0.x` to make it easier to do Pull Requests later.
+At this time we're using the `bugfix-2.0.x` branch to patch bugs for the next minor release, and we'll create a new branch for the next major release as we develop a plan. We recommend you change the "Default Branch" in your fork to `bugfix-2.0.x` to make it easier to do Pull Requests later.
 
 Click on the **branches** tab to view all branches in your fork.
 
@@ -169,7 +169,7 @@ Once everything is committed, publish to your GitHub account by clicking the `Sy
 
 Before submitting the Pull Request:
 
-- Please review the [Marlin project guidelines](https://github.com/MarlinFirmware/Marlin/wiki/DNE-Contributing).
+- Please review the [Marlin project guidelines](//github.com/MarlinFirmware/Marlin/wiki/DNE-Contributing).
 - Make sure you've compiled and done some sanity tests on the code.
 
 #### Submit from GitHub Desktop

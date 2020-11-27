@@ -94,6 +94,10 @@
   hash: 5cf6c44f47737bdf93df6ae7c835fe2d54d0675d
   date: 01/08/2018
 
+- version: 1.1.9.1
+  hash: 1314b31d97bba8cd74c6625c47176d4692f57790
+  date: 20/06/2020
+
 - version: 2.0.0
   hash: ac7ee4b94a200590a566fd6979f4738976de12b6
   date: 01/12/2019
@@ -127,5 +131,45 @@
   date: 24/02/2020
 
 - version: 2.0.4.4
-  hash: 65b47e607d863b4b6b5f81bae2196096448da854
+  hash: 193f1fd135ec9a85364cded0b5aa319ddf2ff73b
   date: 26/02/2020
+
+- version: 2.0.5
+  hash: 8dbbcfd382356eb5d16b8bfa75c713bbc1de1631
+  date: 14/03/2020
+
+- version: 2.0.5.1
+  hash: d37bfa3b4e4e95804f942b69831dc36b54c53215
+  date: 16/03/2020
+
+- version: 2.0.5.2
+  hash: 7124b2164d5c863ed1013df57a424739420003fc
+  date: 24/03/2020
+
+- version: 2.0.5.3
+  hash: 015c4e6fbdd28f5c4cb5fc987d4f4ae513b1c13d
+  date: 31/03/2020
+
+- version: 2.0.5.4
+  hash: 5513e67512481024e0d571d84487f7c636996803
+  date: 09/07/2020
+
+- version: 2.0.6
+  hash: 92076c65601de5fdfe0facf32dd60c57aab05747
+  date: 27/07/2020
+
+- version: 2.0.6.1
+  hash: ca194ca52ee63fe319305a79e396b8b013b4c935
+  date: 28/08/2020
+
+- version: 2.0.7
+  hash: e8177735a00d1d7bb20b439544d3324fe01cfe7e
+  date: 28/09/2020
+
+- version: 2.0.7.1
+  hash: 11662bf2b65e0762e7ed7c95522a15477215c013
+  date: 10/10/2020
+
+- version: 2.0.7.2
+  hash: 88a2ac92d5792de3de005b3b97d7bb561946c148
+  date: 15/10/2020

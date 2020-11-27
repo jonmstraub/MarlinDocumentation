@@ -50,7 +50,7 @@ This method is recommended because it is relatively easy and closely parallels t
 
 ## Download Marlin 2.0
 
-1. Download [Marlin 2.0](https://github.com/MarlinFirmware/Marlin/archive/2.0.x.zip) which includes support for ARM-based boards.
+1. Download [Marlin 2.0](//github.com/MarlinFirmware/Marlin/archive/2.0.x.zip) which includes support for ARM-based boards.
 
 2. Move the `2.0.x.zip` file to your "Documents" folder (or wherever you prefer) and expand the ZIP archive as you usually do.
 
@@ -181,7 +181,7 @@ We strongly suggest rebuilding your configs using one of the included example co
 
 All of Re-Arm's logic pins are 3.3V, but all pins (except analog!) are 5V tolerant, so there's no reason to worry about voltage-divided induction sensor signal voltages or other 5V devices you may be using.
 
-1. Connect using your host terminal to check that the board is working. Start by sending an `M119` to get a report of the endstops, and try `M502` followed by `M500` to initialize the emulated EEPROM data.
+1. Connect using your host terminal to check that the board is working. Start by sending an [`M119`](/docs/gcode/M119.html) to get a report of the endstops, and try [`M502`](/docs/gcode/M502.html) followed by [`M500`](/docs/gcode/M500.html) to initialize the emulated EEPROM data.
 
 2. Unplug the USB cable from the board.
 

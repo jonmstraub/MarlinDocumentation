@@ -24,10 +24,10 @@ Install PlatformIO as a stand alone CLI or with your choice of environment using
 
 {% alert info %}
 As of this writing, *Atom* can still be used to some extent, but going forward PlatformIO will be focusing its main support on *Visual Studio Code*, so this is the editor we recommend, and it's a very good environment.
-{% endalert %} 
+{% endalert %}
 
 ## Auto Build Marlin
 
 To make things a bit easier we've published a *Visual Studio Code* extension ([download here](//marketplace.visualstudio.com/items?itemName=MarlinFirmware.auto-build)) that provides a simplified interface to build and upload Marlin. See the [Auto Build Marlin](/docs/basics/auto_build_marlin.html) page for more details.
 
-[AutoBuild Menu](/assets/images/basics/install_platformio_vscode/AB_menu.png)
+![AutoBuild Menu](/assets/images/basics/abm/panel.png)
